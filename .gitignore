@@ -1,0 +1,6 @@
+*.class
+libs/*
+obj/local/*
+gen/*
+*.o
+
